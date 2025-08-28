@@ -1,0 +1,24 @@
+[
+  {
+    "section": "avis",
+    "titre": "NOS AVIS SUR TRUSTPILOT",
+    "exemples": [
+      { "auteur": "okaweb", "avis": "Top ! C1Euro rend le shopping amusant et abordable." },
+      { "auteur": "Maxou", "avis": "L'application C1EURO est devenue mon compagnon incontournable." }
+    ]
+  },
+  {
+    "section": "shopping",
+    "categories": ["Mode", "High-tech", "Cosmétique"],
+    "produits": [
+      { "nom": "Baskets", "prix": "€", "disponibilité": true },
+      { "nom": "Montres", "prix": "€", "disponibilité": true }
+    ]
+  },
+  {
+    "section": "services",
+    "repas": "Livraison de plats équilibrés",
+    "ménage": "Service rapide et fiable",
+    "courses": "Courses et bricolage"
+  }
+]
