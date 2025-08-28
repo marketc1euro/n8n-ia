@@ -1,0 +1,118 @@
+[
+  {
+    "section": "presentation_pro",
+    "titre": "VENDRE SUR APPLICATION C1EURO",
+    "sous_titre": "BOOSTEZ VOTRE VISIBILITÉ, DÉVELOPPEZ VOS VENTES",
+    "description": "Améliorez votre expérience de vente en ligne. Vendre sur l'application C1EURO n'a jamais été aussi facile. Que vous soyez artisan, commerçant ou entrepreneur, notre plateforme vous offre tous les outils pour réussir.",
+    "avantages_cles": [
+      "Inscription totalement gratuite",
+      "Aucune commission sur les commandes",
+      "Sans abonnement ni engagement",
+      "Gestion directe des paiements clients",
+      "Aucun pourcentage prélevé par la plateforme"
+    ],
+    "actions": [
+      "Créer un compte vendeur",
+      "Créer votre catalogue facilement",
+      "Créer vos offres avec vos tarifs",
+      "Gérer votre annonce facilement",
+      "Gérer vos paiements facilement"
+    ]
+  },
+  {
+    "section": "outils_vente",
+    "titre": "DES OUTILS SIMPLES POUR RÉUSSIR À VENDRE SUR C1EURO",
+    "description": "C1EURO vous fournit tout le nécessaire pour exceller dans la vente en ligne. Notre plateforme facilite la gestion de vos ventes, paiements et annonces.",
+    "fonctionnalites": [
+      {
+        "nom": "CATALOGUE",
+        "description": "Facilitez la création de votre catalogue en seulement deux clics. Déposez vos offres et enrichissez-le avec des galeries de photos en toute simplicité."
+      },
+      {
+        "nom": "PORTEFEUILLE",
+        "description": "Facilitez la réception des paiements de vos clients en utilisant votre portefeuille électronique, permettant l'encaissement direct via trois modes de paiement : Stripe, lien sécurisé ou en espèces."
+      },
+      {
+        "nom": "COMMANDES",
+        "description": "Gérez vos commandes grâce à un système centralisé. Le récapitulatif de votre commande et l'encaissement du client sont effectués directement."
+      }
+    ]
+  },
+  {
+    "section": "paiements",
+    "titre": "OPTIONS DE PAIEMENT POUR PROFESSIONNELS",
+    "description": "Le professionnel gère ses propres paiements et encaisse directement auprès du client sans intermédiaire.",
+    "methodes_paiement": [
+      {
+        "type": "Stripe",
+        "description": "Paiement sécurisé par carte bancaire"
+      },
+      {
+        "type": "Espèces",
+        "description": "Paiement en physique lors de la livraison/prestation"
+      },
+      {
+        "type": "Lien de paiement",
+        "description": "Paiement via lien sécurisé (Revolut ou autres solutions)"
+      }
+    ],
+    "avantages_financiers": [
+      "Encaissez directement vos ventes sans délai",
+      "Aucune commission prélevée sur les transactions",
+      "Gestion autonome de votre trésorerie",
+      "Paiements directs client->vendeur"
+    ]
+  },
+  {
+    "section": "gratuite",
+    "titre": "COMMENCEZ À VENDRE SUR C1EURO GRATUITEMENT",
+    "description": "Vendre sur C1EURO, c'est 100 % gratuit et sans frais cachés. C'est l'occasion idéale pour lancer ou développer votre activité.",
+    "avantages": [
+      "Aucun frais d'inscription",
+      "Pas de commission sur les ventes",
+      "Sans engagement de durée",
+      "Sans abonnement mensuel"
+    ],
+    "call_to_action": "Vendre maintenant !"
+  },
+  {
+    "section": "marketplace",
+    "titre": "VENDRE SUR MARKETPLACE C1EURO",
+    "description": "Que vous souhaitiez vendre à l'échelle locale ou nationale, notre plateforme s'adapte à vos besoins. Élargissez votre clientèle et développez votre business.",
+    "publications": [
+      "Produits physiques",
+      "Services professionnels",
+      "Artisanat et créations",
+      "Prestations de service"
+    ],
+    "call_to_action": "Créer votre compte"
+  },
+  {
+    "section": "securite",
+    "titre": "QUALITÉ ET SÉRÉNITÉ: NOTRE APPLI MOBILE.",
+    "description": "Votre sécurité est notre priorité. Chaque professionnel est soigneusement vérifié pour garantir des annonces fiables et des services de qualité.",
+    "garanties": [
+      {
+        "nom": "IDENTITÉ",
+        "description": "Tous les pros sont vérifiés pour votre tranquillité."
+      },
+      {
+        "nom": "TRANSACTION",
+        "description": "L'argent est versé une fois la prestation validée."
+      },
+      {
+        "nom": "PAIEMENT",
+        "description": "Vos paiements sont protégés par un cryptage fiable."
+      }
+    ]
+  },
+  {
+    "section": "disponibilite",
+    "titre": "TÉLÉCHARGEZ NOTRE APPLI DÈS MAINTENANT !",
+    "description": "Trouvez tout ce dont vous avez besoin en un clic ! Téléchargez notre application pour accéder à des services pratiques.",
+    "plateformes": [
+      "Disponible sur iOS",
+      "Disponible sur Android"
+    ]
+  }
+]
