@@ -1,0 +1,135 @@
+[
+  {
+    "section": "presentation",
+    "titre": "TOUT CE DONT VOUS AVEZ BESOIN POUR 1€",
+    "description": "Notre application C1EURO vous connecte à des professionnels pour seulement 1 euro. Que ce soit pour un service ou un produit, la plateforme simplifie la mise en relation avec des professionnels qualifiés.",
+    "actions": [
+      "Télécharger l'application",
+      "Découvrir les offres de proximité",
+      "Vérifier les points importants",
+      "Faites vos courses en ligne",
+      "Découvrez nos catalogues"
+    ]
+  },
+  {
+    "section": "shopping",
+    "titre": "SHOPPING MALIN ET TENDANCE",
+    "description": "Découvrez baskets, montres, sacs et high-tech, articles tendance, livrés directement chez vous.",
+    "categories": [
+      {
+        "nom": "Fashion",
+        "description": "Baskets, montres, sacs à main, trouvez les dernières tendances stylées pour votre look."
+      },
+      {
+        "nom": "High-tech",
+        "description": "Smartphones, casques, objets connectés : profitez des innovations à prix attractifs."
+      },
+      {
+        "nom": "Cosmétique",
+        "description": "Soins, maquillage, parfums : découvrez les produits qui subliment votre beauté au quotidien."
+      }
+    ],
+    "call_to_action": "Faire du shopping Maintenant !"
+  },
+  {
+    "section": "services",
+    "titre": "SERVICES DU QUOTIDIEN",
+    "description": "Profitez de services pratiques pour vous faciliter la vie au quotidien avec C1EURO !",
+    "services": [
+      {
+        "nom": "Repas livrés",
+        "description": "recevez des plats variés, équilibrés et préparés avec soin directement chez vous."
+      },
+      {
+        "nom": "Aide au ménage",
+        "description": "bénéficiez d'un service d'entretien rapide, efficace et fiable pour votre domicile."
+      },
+      {
+        "nom": "Courses et bricolage",
+        "description": "déléguez vos courses et petits travaux pour gagner du temps au quotidien."
+      }
+    ],
+    "call_to_action": "Trouver un prestataire"
+  },
+  {
+    "section": "application",
+    "titre": "DÉCOUVREZ C1EURO : VOTRE APPLICATION MOBILE, SIMPLE ET INTUITIVE",
+    "description": "Avec C1EURO, simplifiez votre quotidien grâce à une application mobile intuitive et performante.",
+    "fonctionnalites": [
+      {
+        "nom": "Shopping",
+        "description": "Trouvez baskets, montres, sacs à main et produits high-tech, tout au meilleur prix livré par colis !"
+      },
+      {
+        "nom": "Services",
+        "description": "Repas, ménage, livraison de course, bricolage etc. Simplifiez votre quotidien."
+      },
+      {
+        "nom": "Mes demandes",
+        "description": "Gérez depuis l'application et échangez directement avec des professionnels qualifiés."
+      }
+    ]
+  },
+  {
+    "section": "annonces",
+    "titre": "ANNONCES LOCALES DISPONIBLES",
+    "description": "Avec l'application C1EURO, accédez à des annonces locales près de chez vous. Une façon simple de profiter d'offres proches de chez vous, en toute confiance.",
+    "call_to_action": "Voir nos annonces"
+  },
+  {
+    "section": "livraison",
+    "titre": "LIVRAISON À DOMICILE",
+    "description": "Recevez vos achats directement chez vous grâce à la livraison par Colissimo ou Mondial Relay. Sur C1EURO, commandez en toute simplicité et profitez d'une expédition rapide et sécurisée, où que vous soyez.",
+    "call_to_action": "Visiter notre catalogue"
+  },
+  {
+    "section": "marques",
+    "titre": "DÉCOUVREZ NOS MARQUES AVEC NOTRE APPLICATION !",
+    "description": "Explorez toutes nos marques et bons plans en un seul endroit.",
+    "marques": [
+      ["Salsa", "Nike", "Diesel", "Adidas"],
+      ["Ugreen", "Roborock", "Baseus", "Xiaomi"]
+    ],
+    "disponibilite": "Disponible sur iOS et Android"
+  },
+  {
+    "section": "securite",
+    "titre": "QUALITÉ ET SÉRÉNITÉ: NOTRE APPLI MOBILE.",
+    "description": "Votre sécurité est notre priorité. Chaque professionnel est soigneusement vérifié pour vous garantir des annonces fiables et des services de qualité.",
+    "garanties": [
+      {
+        "nom": "IDENTITÉ",
+        "description": "Tous les pros sont vérifiés pour votre tranquillité."
+      },
+      {
+        "nom": "TRANSACTION",
+        "description": "L'argent est versé une fois la prestation validée."
+      },
+      {
+        "nom": "PAIEMENT",
+        "description": "Vos paiements sont protégés par un cryptage fiable."
+      }
+    ]
+  },
+  {
+    "section": "avis",
+    "titre": "NOS AVIS SUR TRUSTPILOT",
+    "call_to_action": "Voir tous nos commentaires sur Trustpilot",
+    "exemples": [
+      {
+        "auteur": "okaweb",
+        "avis": "Top! C1Euro rend le shopping en ligne fun et abordable. Super concept et produits de qualité pour seulement 1 euro. Recommandé!"
+      },
+      {
+        "auteur": "Maxou",
+        "avis": "L'application C1EURO est devenue mon compagnon incontournable pour mes achats shopping ! Sa facilité d'utilisation et ses fonctionnalités intuitives"
+      }
+    ]
+  },
+  {
+    "section": "categories",
+    "titre": "NOS CATÉGORIES",
+    "description": "Découvrez nos grandes catégories sur l'application C1EURO",
+    "categories": ["Mode", "Alimentation", "High-tech", "Livreur"]
+  }
+]
