@@ -104,7 +104,18 @@
         "nom": "PAIEMENT",
         "description": "Vos paiements sont protégés par un cryptage fiable."
       }
-    ]
+    [
+  {
+    "section": "application",
+    "titre": "MON APPLICATION",
+    "description": "Téléchargez notre application officielle C1EURO",
+    "lien": "https://link.c1euro.com/qrcode"
+  },
+  {
+    "section": "professionnels",
+    "titre": "ESPACE VENDEUR",
+    "description": "Accédez à votre espace professionnel C1EURO pour gérer vos produits et vos ventes.",
+    "lien": "http://pro.c1euro.com/vendeur"
   },
   {
     "section": "disponibilite",
