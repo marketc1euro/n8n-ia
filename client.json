@@ -124,12 +124,17 @@
         "auteur": "Maxou",
         "avis": "L'application C1EURO est devenue mon compagnon incontournable pour mes achats shopping ! Sa facilité d'utilisation et ses fonctionnalités intuitives"
       }
-    ]
-  },
+   [
   {
     "section": "categories",
     "titre": "NOS CATÉGORIES",
     "description": "Découvrez nos grandes catégories sur l'application C1EURO",
     "categories": ["Mode", "Alimentation", "High-tech", "Livreur"]
+  },
+  {
+    "section": "application",
+    "titre": "MON APPLICATION",
+    "description": "Téléchargez notre application officielle C1EURO",
+    "lien": "https://link.c1euro.com/qrcode"
   }
 ]
